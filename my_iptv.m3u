@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 group-title="Развлекательные",СТС Love
+http://31.148.48.15/STS_Love/index.m3u8
+#EXTINF:-1 group-title="Развлекательные",2x2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8?version=2
